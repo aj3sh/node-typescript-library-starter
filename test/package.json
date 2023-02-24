@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "subashcs-ts-starter-lib": "^1.0.14"
+    "subashcs-typescript-node-starter": "^0.0.1"
   },
   "devDependencies": {
     "jest": "^29.4.3"

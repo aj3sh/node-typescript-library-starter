@@ -4,14 +4,14 @@ Short description of the project.
 ## Installation
 
 ```
-npm install subashcs-ts-starter-lib
+npm install subashcs-typescript-node-starter
 
 ```
 
 ## Usage
 
 ```
-import { myFunction } from "subashcs-ts-starter-lib";
+import { myFunction } from "subashcs-typescript-node-starter";
 
 myFunction();
 
