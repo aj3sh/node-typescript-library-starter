@@ -1,6 +1,6 @@
 {
-  "name": "subashcs-ts-starter-lib",
-  "version": "1.0.14",
+  "name": "subashcs-typescript-node-starter",
+  "version": "0.0.1",
   "description": "Test Library",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
