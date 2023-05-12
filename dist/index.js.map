@@ -1,1 +1,1 @@
-{"version":3,"file":"index.js","sources":["../src/lib/dog.ts"],"sourcesContent":["class Dog{}\nexport default Dog"],"names":[],"mappings":";;AAAA,MAAM,GAAG,CAAA;AAAE;;;;"}
+{"version":3,"file":"index.js","sources":["../src/lib/dog.ts"],"sourcesContent":["export class Dog{}\nexport default Dog"],"names":[],"mappings":";;MAAa,GAAG,CAAA;AAAE;;;;"}

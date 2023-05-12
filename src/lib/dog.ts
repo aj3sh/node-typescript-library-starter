@@ -1,2 +1,2 @@
-class Dog{}
+export class Dog{}
 export default Dog

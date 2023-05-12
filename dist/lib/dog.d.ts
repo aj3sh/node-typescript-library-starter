@@ -1,3 +1,3 @@
-declare class Dog {
+export declare class Dog {
 }
 export default Dog;
