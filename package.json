@@ -1,5 +1,5 @@
 {
-  "name": "ajesh-starter",
+  "name": "node-starter",
   "version": "0.0.1",
   "description": "Test Library",
   "main": "dist/index.js",
@@ -25,6 +25,7 @@
   ],
   "keywords": [],
   "author": "Subash Sapkota",
+  "contributors": ["Ajesh Sen Thapa"],
   "license": "MIT",
   "repository": {
     "url": "https://github.com/subashcs/node-typescript-library-starter.git",
