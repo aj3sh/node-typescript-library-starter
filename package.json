@@ -1,5 +1,5 @@
 {
-  "name": "subashcs-typescript-node-starter",
+  "name": "ajesh-starter",
   "version": "0.0.1",
   "description": "Test Library",
   "main": "dist/index.js",
@@ -17,8 +17,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:dev": "npx nodemon",
-    "build": "rimraf ./build && rollup -c",
-    "start": "npm run build && node build/index.js"
+    "build": "rimraf ./dist && rollup -c",
+    "start": "npm run build && node dist/index.js"
   },
   "files": [
     "dist"
